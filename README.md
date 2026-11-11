@@ -2,6 +2,8 @@
 
 # Ma3kom (معكم) — Prototype
 
+**Live demo:** https://abda-s.github.io/ma3kom/
+
 A clickable prototype of a family elder-care coordination app for Jordan. There is no backend: all data is mock data saved in the browser's localStorage, and "Reset demo" in the settings drawer restores the original demo data.
 
 ## Structure
@@ -39,7 +41,7 @@ Then open http://localhost:8000 in your browser.
    git commit -m "Initial prototype"
    ```
 
-2. Create a new repository on GitHub (for example `hakeem-family-care`). Do not add a README or .gitignore there, since the project already has them.
+2. Create a new repository on GitHub (for example `ma3kom`). Do not add a README or .gitignore there, since the project already has them.
 
 3. Connect the local repository to GitHub and push:
 
