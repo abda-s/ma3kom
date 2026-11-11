@@ -119,7 +119,8 @@ th{font-size:.8rem;color:var(--muted);border-top:0}
 .skip:focus{top:8px}
 .shell{display:grid;grid-template-columns:236px minmax(0,1fr);min-height:100vh}
 .rail{background:var(--surface);border-inline-end:1px solid var(--line);padding:14px 10px;position:sticky;top:0;height:100vh;overflow:auto}
-.brand{display:flex;gap:10px;align-items:center;font-weight:700;padding:4px 10px 14px;font-size:1.05rem}
+.brand{display:flex;gap:10px;align-items:center;font-weight:700;padding:4px 10px 14px;font-size:1.15rem}
+.logo-mark{width:32px;height:32px;border-radius:8px;flex:none}
 .rail a{display:flex;gap:12px;align-items:center;min-height:44px;padding:8px 12px;border-radius:10px;text-decoration:none;color:var(--ink);margin-bottom:2px}
 .rail a:hover{background:var(--bg)}
 .rail a.on{background:var(--brand-soft);color:var(--brand);font-weight:700;box-shadow:inset 4px 0 0 var(--brand)}

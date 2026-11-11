@@ -1,4 +1,6 @@
-# Hakeem Family Care — Prototype
+<p><img src="assets/logo.svg" alt="Ma3kom — معكم" width="360"></p>
+
+# Ma3kom (معكم) — Prototype
 
 A clickable prototype of a family elder-care coordination app for Jordan. There is no backend: all data is mock data saved in the browser's localStorage, and "Reset demo" in the settings drawer restores the original demo data.
 
